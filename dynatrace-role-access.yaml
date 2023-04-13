@@ -19,7 +19,6 @@ Parameters:
     Type: String
     Description: External ID, copied from Settings > Cloud and virtualization > AWS
       in Dynatrace
-    Default: a67a99eb-20de-437a-87f7-02bb99c80912
   RoleName:
     Type: String
     Description: IAM role name that Dynatrace should use to get monitoring data
